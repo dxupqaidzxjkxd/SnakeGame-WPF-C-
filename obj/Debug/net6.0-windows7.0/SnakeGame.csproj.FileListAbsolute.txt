@@ -1,0 +1,220 @@
+C:\Users\User\Desktop\OOP_Class_Project_Snake-main\bin\Debug\net6.0-windows7.0\SnakeGame.exe
+C:\Users\User\Desktop\OOP_Class_Project_Snake-main\bin\Debug\net6.0-windows7.0\SnakeGame.deps.json
+C:\Users\User\Desktop\OOP_Class_Project_Snake-main\bin\Debug\net6.0-windows7.0\SnakeGame.runtimeconfig.json
+C:\Users\User\Desktop\OOP_Class_Project_Snake-main\bin\Debug\net6.0-windows7.0\SnakeGame.dll
+C:\Users\User\Desktop\OOP_Class_Project_Snake-main\bin\Debug\net6.0-windows7.0\SnakeGame.pdb
+C:\Users\User\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\SnakeGame.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\MainWindow.g.cs
+C:\Users\User\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\App.g.cs
+C:\Users\User\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\SnakeGame_MarkupCompile.cache
+C:\Users\User\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\SnakeGame_MarkupCompile.lref
+C:\Users\User\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\App.baml
+C:\Users\User\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\MainWindow.baml
+C:\Users\User\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\SnakeGame.g.resources
+C:\Users\User\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\SnakeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\SnakeGame.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\SnakeGame.AssemblyInfo.cs
+C:\Users\User\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\SnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\SnakeGame.dll
+C:\Users\User\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\refint\SnakeGame.dll
+C:\Users\User\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\SnakeGame.pdb
+C:\Users\User\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\SnakeGame.genruntimeconfig.cache
+C:\Users\User\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\ref\SnakeGame.dll
+C:\Users\User\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\Menu.g.cs
+C:\Users\User\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\Menu.baml
+C:\Users\User\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\faq.g.cs
+C:\Users\User\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\hard.g.cs
+C:\Users\User\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\normal.g.cs
+C:\Users\User\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\faq.baml
+C:\Users\User\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\hard.baml
+C:\Users\User\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\normal.baml
+C:\Users\Student\Desktop\OOP_Class_Project_Snake-main\bin\Debug\net6.0-windows7.0\SnakeGame.exe
+C:\Users\Student\Desktop\OOP_Class_Project_Snake-main\bin\Debug\net6.0-windows7.0\SnakeGame.deps.json
+C:\Users\Student\Desktop\OOP_Class_Project_Snake-main\bin\Debug\net6.0-windows7.0\SnakeGame.runtimeconfig.json
+C:\Users\Student\Desktop\OOP_Class_Project_Snake-main\bin\Debug\net6.0-windows7.0\SnakeGame.dll
+C:\Users\Student\Desktop\OOP_Class_Project_Snake-main\bin\Debug\net6.0-windows7.0\SnakeGame.pdb
+C:\Users\Student\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\SnakeGame.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\faq.g.cs
+C:\Users\Student\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\hard.g.cs
+C:\Users\Student\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\MainWindow.g.cs
+C:\Users\Student\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\Menu.g.cs
+C:\Users\Student\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\normal.g.cs
+C:\Users\Student\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\App.g.cs
+C:\Users\Student\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\SnakeGame_MarkupCompile.cache
+C:\Users\Student\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\SnakeGame_MarkupCompile.lref
+C:\Users\Student\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\App.baml
+C:\Users\Student\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\faq.baml
+C:\Users\Student\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\hard.baml
+C:\Users\Student\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\MainWindow.baml
+C:\Users\Student\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\Menu.baml
+C:\Users\Student\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\normal.baml
+C:\Users\Student\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\SnakeGame.g.resources
+C:\Users\Student\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\SnakeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\SnakeGame.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\SnakeGame.AssemblyInfo.cs
+C:\Users\Student\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\SnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\SnakeGame.dll
+C:\Users\Student\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\refint\SnakeGame.dll
+C:\Users\Student\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\SnakeGame.pdb
+C:\Users\Student\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\SnakeGame.genruntimeconfig.cache
+C:\Users\Student\Desktop\OOP_Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\ref\SnakeGame.dll
+C:\Users\User\Desktop\OOP_8Class_Project_Snake-main\bin\Debug\net6.0-windows7.0\SnakeGame.exe
+C:\Users\User\Desktop\OOP_8Class_Project_Snake-main\bin\Debug\net6.0-windows7.0\SnakeGame.deps.json
+C:\Users\User\Desktop\OOP_8Class_Project_Snake-main\bin\Debug\net6.0-windows7.0\SnakeGame.runtimeconfig.json
+C:\Users\User\Desktop\OOP_8Class_Project_Snake-main\bin\Debug\net6.0-windows7.0\SnakeGame.dll
+C:\Users\User\Desktop\OOP_8Class_Project_Snake-main\bin\Debug\net6.0-windows7.0\SnakeGame.pdb
+C:\Users\User\Desktop\OOP_8Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\SnakeGame.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\OOP_8Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\faq.g.cs
+C:\Users\User\Desktop\OOP_8Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\hard.g.cs
+C:\Users\User\Desktop\OOP_8Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\MainWindow.g.cs
+C:\Users\User\Desktop\OOP_8Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\Menu.g.cs
+C:\Users\User\Desktop\OOP_8Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\normal.g.cs
+C:\Users\User\Desktop\OOP_8Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\App.g.cs
+C:\Users\User\Desktop\OOP_8Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\SnakeGame_MarkupCompile.cache
+C:\Users\User\Desktop\OOP_8Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\SnakeGame_MarkupCompile.lref
+C:\Users\User\Desktop\OOP_8Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\App.baml
+C:\Users\User\Desktop\OOP_8Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\faq.baml
+C:\Users\User\Desktop\OOP_8Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\hard.baml
+C:\Users\User\Desktop\OOP_8Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\MainWindow.baml
+C:\Users\User\Desktop\OOP_8Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\Menu.baml
+C:\Users\User\Desktop\OOP_8Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\normal.baml
+C:\Users\User\Desktop\OOP_8Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\SnakeGame.g.resources
+C:\Users\User\Desktop\OOP_8Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\SnakeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\OOP_8Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\SnakeGame.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\OOP_8Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\SnakeGame.AssemblyInfo.cs
+C:\Users\User\Desktop\OOP_8Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\SnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OOP_8Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\SnakeGame.dll
+C:\Users\User\Desktop\OOP_8Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\refint\SnakeGame.dll
+C:\Users\User\Desktop\OOP_8Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\SnakeGame.pdb
+C:\Users\User\Desktop\OOP_8Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\SnakeGame.genruntimeconfig.cache
+C:\Users\User\Desktop\OOP_8Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\ref\SnakeGame.dll
+C:\Users\User\Desktop\OOP_8Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\win.g.cs
+C:\Users\User\Desktop\OOP_8Class_Project_Snake-main\obj\Debug\net6.0-windows7.0\win.baml
+C:\Users\User\Desktop\OOP_8lass_Project_Snake-main\bin\Debug\net6.0-windows7.0\SnakeGame.exe
+C:\Users\User\Desktop\OOP_8lass_Project_Snake-main\bin\Debug\net6.0-windows7.0\SnakeGame.deps.json
+C:\Users\User\Desktop\OOP_8lass_Project_Snake-main\bin\Debug\net6.0-windows7.0\SnakeGame.runtimeconfig.json
+C:\Users\User\Desktop\OOP_8lass_Project_Snake-main\bin\Debug\net6.0-windows7.0\SnakeGame.dll
+C:\Users\User\Desktop\OOP_8lass_Project_Snake-main\bin\Debug\net6.0-windows7.0\SnakeGame.pdb
+C:\Users\User\Desktop\OOP_8lass_Project_Snake-main\obj\Debug\net6.0-windows7.0\SnakeGame.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\OOP_8lass_Project_Snake-main\obj\Debug\net6.0-windows7.0\faq.g.cs
+C:\Users\User\Desktop\OOP_8lass_Project_Snake-main\obj\Debug\net6.0-windows7.0\hard.g.cs
+C:\Users\User\Desktop\OOP_8lass_Project_Snake-main\obj\Debug\net6.0-windows7.0\MainWindow.g.cs
+C:\Users\User\Desktop\OOP_8lass_Project_Snake-main\obj\Debug\net6.0-windows7.0\Menu.g.cs
+C:\Users\User\Desktop\OOP_8lass_Project_Snake-main\obj\Debug\net6.0-windows7.0\normal.g.cs
+C:\Users\User\Desktop\OOP_8lass_Project_Snake-main\obj\Debug\net6.0-windows7.0\win.g.cs
+C:\Users\User\Desktop\OOP_8lass_Project_Snake-main\obj\Debug\net6.0-windows7.0\App.g.cs
+C:\Users\User\Desktop\OOP_8lass_Project_Snake-main\obj\Debug\net6.0-windows7.0\SnakeGame_MarkupCompile.cache
+C:\Users\User\Desktop\OOP_8lass_Project_Snake-main\obj\Debug\net6.0-windows7.0\SnakeGame_MarkupCompile.lref
+C:\Users\User\Desktop\OOP_8lass_Project_Snake-main\obj\Debug\net6.0-windows7.0\App.baml
+C:\Users\User\Desktop\OOP_8lass_Project_Snake-main\obj\Debug\net6.0-windows7.0\faq.baml
+C:\Users\User\Desktop\OOP_8lass_Project_Snake-main\obj\Debug\net6.0-windows7.0\hard.baml
+C:\Users\User\Desktop\OOP_8lass_Project_Snake-main\obj\Debug\net6.0-windows7.0\MainWindow.baml
+C:\Users\User\Desktop\OOP_8lass_Project_Snake-main\obj\Debug\net6.0-windows7.0\Menu.baml
+C:\Users\User\Desktop\OOP_8lass_Project_Snake-main\obj\Debug\net6.0-windows7.0\normal.baml
+C:\Users\User\Desktop\OOP_8lass_Project_Snake-main\obj\Debug\net6.0-windows7.0\win.baml
+C:\Users\User\Desktop\OOP_8lass_Project_Snake-main\obj\Debug\net6.0-windows7.0\SnakeGame.g.resources
+C:\Users\User\Desktop\OOP_8lass_Project_Snake-main\obj\Debug\net6.0-windows7.0\SnakeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\OOP_8lass_Project_Snake-main\obj\Debug\net6.0-windows7.0\SnakeGame.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\OOP_8lass_Project_Snake-main\obj\Debug\net6.0-windows7.0\SnakeGame.AssemblyInfo.cs
+C:\Users\User\Desktop\OOP_8lass_Project_Snake-main\obj\Debug\net6.0-windows7.0\SnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OOP_8lass_Project_Snake-main\obj\Debug\net6.0-windows7.0\SnakeGame.dll
+C:\Users\User\Desktop\OOP_8lass_Project_Snake-main\obj\Debug\net6.0-windows7.0\refint\SnakeGame.dll
+C:\Users\User\Desktop\OOP_8lass_Project_Snake-main\obj\Debug\net6.0-windows7.0\SnakeGame.pdb
+C:\Users\User\Desktop\OOP_8lass_Project_Snake-main\obj\Debug\net6.0-windows7.0\SnakeGame.genruntimeconfig.cache
+C:\Users\User\Desktop\OOP_8lass_Project_Snake-main\obj\Debug\net6.0-windows7.0\ref\SnakeGame.dll
+C:\Users\User\Desktop\Новая папка\original SnakeGame\bin\Debug\net6.0-windows7.0\SnakeGame.exe
+C:\Users\User\Desktop\Новая папка\original SnakeGame\bin\Debug\net6.0-windows7.0\SnakeGame.deps.json
+C:\Users\User\Desktop\Новая папка\original SnakeGame\bin\Debug\net6.0-windows7.0\SnakeGame.runtimeconfig.json
+C:\Users\User\Desktop\Новая папка\original SnakeGame\bin\Debug\net6.0-windows7.0\SnakeGame.dll
+C:\Users\User\Desktop\Новая папка\original SnakeGame\bin\Debug\net6.0-windows7.0\SnakeGame.pdb
+C:\Users\User\Desktop\Новая папка\original SnakeGame\obj\Debug\net6.0-windows7.0\SnakeGame.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Новая папка\original SnakeGame\obj\Debug\net6.0-windows7.0\faq.g.cs
+C:\Users\User\Desktop\Новая папка\original SnakeGame\obj\Debug\net6.0-windows7.0\hard.g.cs
+C:\Users\User\Desktop\Новая папка\original SnakeGame\obj\Debug\net6.0-windows7.0\MainWindow.g.cs
+C:\Users\User\Desktop\Новая папка\original SnakeGame\obj\Debug\net6.0-windows7.0\Menu.g.cs
+C:\Users\User\Desktop\Новая папка\original SnakeGame\obj\Debug\net6.0-windows7.0\normal.g.cs
+C:\Users\User\Desktop\Новая папка\original SnakeGame\obj\Debug\net6.0-windows7.0\win.g.cs
+C:\Users\User\Desktop\Новая папка\original SnakeGame\obj\Debug\net6.0-windows7.0\App.g.cs
+C:\Users\User\Desktop\Новая папка\original SnakeGame\obj\Debug\net6.0-windows7.0\SnakeGame_MarkupCompile.cache
+C:\Users\User\Desktop\Новая папка\original SnakeGame\obj\Debug\net6.0-windows7.0\SnakeGame_MarkupCompile.lref
+C:\Users\User\Desktop\Новая папка\original SnakeGame\obj\Debug\net6.0-windows7.0\App.baml
+C:\Users\User\Desktop\Новая папка\original SnakeGame\obj\Debug\net6.0-windows7.0\faq.baml
+C:\Users\User\Desktop\Новая папка\original SnakeGame\obj\Debug\net6.0-windows7.0\hard.baml
+C:\Users\User\Desktop\Новая папка\original SnakeGame\obj\Debug\net6.0-windows7.0\MainWindow.baml
+C:\Users\User\Desktop\Новая папка\original SnakeGame\obj\Debug\net6.0-windows7.0\Menu.baml
+C:\Users\User\Desktop\Новая папка\original SnakeGame\obj\Debug\net6.0-windows7.0\normal.baml
+C:\Users\User\Desktop\Новая папка\original SnakeGame\obj\Debug\net6.0-windows7.0\win.baml
+C:\Users\User\Desktop\Новая папка\original SnakeGame\obj\Debug\net6.0-windows7.0\SnakeGame.g.resources
+C:\Users\User\Desktop\Новая папка\original SnakeGame\obj\Debug\net6.0-windows7.0\SnakeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Новая папка\original SnakeGame\obj\Debug\net6.0-windows7.0\SnakeGame.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Новая папка\original SnakeGame\obj\Debug\net6.0-windows7.0\SnakeGame.AssemblyInfo.cs
+C:\Users\User\Desktop\Новая папка\original SnakeGame\obj\Debug\net6.0-windows7.0\SnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка\original SnakeGame\obj\Debug\net6.0-windows7.0\SnakeGame.dll
+C:\Users\User\Desktop\Новая папка\original SnakeGame\obj\Debug\net6.0-windows7.0\refint\SnakeGame.dll
+C:\Users\User\Desktop\Новая папка\original SnakeGame\obj\Debug\net6.0-windows7.0\SnakeGame.pdb
+C:\Users\User\Desktop\Новая папка\original SnakeGame\obj\Debug\net6.0-windows7.0\SnakeGame.genruntimeconfig.cache
+C:\Users\User\Desktop\Новая папка\original SnakeGame\obj\Debug\net6.0-windows7.0\ref\SnakeGame.dll
+C:\original SnakeGame\bin\Debug\net6.0-windows7.0\SnakeGame.exe
+C:\original SnakeGame\bin\Debug\net6.0-windows7.0\SnakeGame.deps.json
+C:\original SnakeGame\bin\Debug\net6.0-windows7.0\SnakeGame.runtimeconfig.json
+C:\original SnakeGame\bin\Debug\net6.0-windows7.0\SnakeGame.dll
+C:\original SnakeGame\bin\Debug\net6.0-windows7.0\SnakeGame.pdb
+C:\original SnakeGame\obj\Debug\net6.0-windows7.0\SnakeGame.csproj.AssemblyReference.cache
+C:\original SnakeGame\obj\Debug\net6.0-windows7.0\faq.g.cs
+C:\original SnakeGame\obj\Debug\net6.0-windows7.0\hard.g.cs
+C:\original SnakeGame\obj\Debug\net6.0-windows7.0\MainWindow.g.cs
+C:\original SnakeGame\obj\Debug\net6.0-windows7.0\Menu.g.cs
+C:\original SnakeGame\obj\Debug\net6.0-windows7.0\normal.g.cs
+C:\original SnakeGame\obj\Debug\net6.0-windows7.0\win.g.cs
+C:\original SnakeGame\obj\Debug\net6.0-windows7.0\App.g.cs
+C:\original SnakeGame\obj\Debug\net6.0-windows7.0\SnakeGame_MarkupCompile.cache
+C:\original SnakeGame\obj\Debug\net6.0-windows7.0\SnakeGame_MarkupCompile.lref
+C:\original SnakeGame\obj\Debug\net6.0-windows7.0\App.baml
+C:\original SnakeGame\obj\Debug\net6.0-windows7.0\faq.baml
+C:\original SnakeGame\obj\Debug\net6.0-windows7.0\hard.baml
+C:\original SnakeGame\obj\Debug\net6.0-windows7.0\MainWindow.baml
+C:\original SnakeGame\obj\Debug\net6.0-windows7.0\Menu.baml
+C:\original SnakeGame\obj\Debug\net6.0-windows7.0\normal.baml
+C:\original SnakeGame\obj\Debug\net6.0-windows7.0\win.baml
+C:\original SnakeGame\obj\Debug\net6.0-windows7.0\SnakeGame.g.resources
+C:\original SnakeGame\obj\Debug\net6.0-windows7.0\SnakeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\original SnakeGame\obj\Debug\net6.0-windows7.0\SnakeGame.AssemblyInfoInputs.cache
+C:\original SnakeGame\obj\Debug\net6.0-windows7.0\SnakeGame.AssemblyInfo.cs
+C:\original SnakeGame\obj\Debug\net6.0-windows7.0\SnakeGame.csproj.CoreCompileInputs.cache
+C:\original SnakeGame\obj\Debug\net6.0-windows7.0\SnakeGame.dll
+C:\original SnakeGame\obj\Debug\net6.0-windows7.0\refint\SnakeGame.dll
+C:\original SnakeGame\obj\Debug\net6.0-windows7.0\SnakeGame.pdb
+C:\original SnakeGame\obj\Debug\net6.0-windows7.0\SnakeGame.genruntimeconfig.cache
+C:\original SnakeGame\obj\Debug\net6.0-windows7.0\ref\SnakeGame.dll
+C:\Users\User\Desktop\original SnakeGame\bin\Debug\net6.0-windows7.0\SnakeGame.exe
+C:\Users\User\Desktop\original SnakeGame\bin\Debug\net6.0-windows7.0\SnakeGame.deps.json
+C:\Users\User\Desktop\original SnakeGame\bin\Debug\net6.0-windows7.0\SnakeGame.runtimeconfig.json
+C:\Users\User\Desktop\original SnakeGame\bin\Debug\net6.0-windows7.0\SnakeGame.dll
+C:\Users\User\Desktop\original SnakeGame\bin\Debug\net6.0-windows7.0\SnakeGame.pdb
+C:\Users\User\Desktop\original SnakeGame\obj\Debug\net6.0-windows7.0\SnakeGame.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\original SnakeGame\obj\Debug\net6.0-windows7.0\faq.g.cs
+C:\Users\User\Desktop\original SnakeGame\obj\Debug\net6.0-windows7.0\hard.g.cs
+C:\Users\User\Desktop\original SnakeGame\obj\Debug\net6.0-windows7.0\MainWindow.g.cs
+C:\Users\User\Desktop\original SnakeGame\obj\Debug\net6.0-windows7.0\Menu.g.cs
+C:\Users\User\Desktop\original SnakeGame\obj\Debug\net6.0-windows7.0\normal.g.cs
+C:\Users\User\Desktop\original SnakeGame\obj\Debug\net6.0-windows7.0\win.g.cs
+C:\Users\User\Desktop\original SnakeGame\obj\Debug\net6.0-windows7.0\App.g.cs
+C:\Users\User\Desktop\original SnakeGame\obj\Debug\net6.0-windows7.0\SnakeGame_MarkupCompile.cache
+C:\Users\User\Desktop\original SnakeGame\obj\Debug\net6.0-windows7.0\SnakeGame_MarkupCompile.lref
+C:\Users\User\Desktop\original SnakeGame\obj\Debug\net6.0-windows7.0\App.baml
+C:\Users\User\Desktop\original SnakeGame\obj\Debug\net6.0-windows7.0\faq.baml
+C:\Users\User\Desktop\original SnakeGame\obj\Debug\net6.0-windows7.0\hard.baml
+C:\Users\User\Desktop\original SnakeGame\obj\Debug\net6.0-windows7.0\MainWindow.baml
+C:\Users\User\Desktop\original SnakeGame\obj\Debug\net6.0-windows7.0\Menu.baml
+C:\Users\User\Desktop\original SnakeGame\obj\Debug\net6.0-windows7.0\normal.baml
+C:\Users\User\Desktop\original SnakeGame\obj\Debug\net6.0-windows7.0\win.baml
+C:\Users\User\Desktop\original SnakeGame\obj\Debug\net6.0-windows7.0\SnakeGame.g.resources
+C:\Users\User\Desktop\original SnakeGame\obj\Debug\net6.0-windows7.0\SnakeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\original SnakeGame\obj\Debug\net6.0-windows7.0\SnakeGame.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\original SnakeGame\obj\Debug\net6.0-windows7.0\SnakeGame.AssemblyInfo.cs
+C:\Users\User\Desktop\original SnakeGame\obj\Debug\net6.0-windows7.0\SnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\original SnakeGame\obj\Debug\net6.0-windows7.0\SnakeGame.dll
+C:\Users\User\Desktop\original SnakeGame\obj\Debug\net6.0-windows7.0\refint\SnakeGame.dll
+C:\Users\User\Desktop\original SnakeGame\obj\Debug\net6.0-windows7.0\SnakeGame.pdb
+C:\Users\User\Desktop\original SnakeGame\obj\Debug\net6.0-windows7.0\SnakeGame.genruntimeconfig.cache
+C:\Users\User\Desktop\original SnakeGame\obj\Debug\net6.0-windows7.0\ref\SnakeGame.dll

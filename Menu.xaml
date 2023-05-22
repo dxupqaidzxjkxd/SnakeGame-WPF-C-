@@ -1,0 +1,56 @@
+﻿<Window x:Class="SnakeGame.Menu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        Loaded="Window_Loaded_1"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SnakeGame"
+        mc:Ignorable="d"
+        Title="Snake Game" Height="500" Width="650"
+        WindowStartupLocation="CenterScreen"
+WindowStyle="None">
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="73*"/>
+
+            <RowDefinition Height="261*"/>
+        </Grid.RowDefinitions>
+        <Image HorizontalAlignment="Left" Height="822" Grid.RowSpan="2" VerticalAlignment="Top" Width="982" Source="/wqw.png"/>
+        <Border BorderBrush="#FF00FF04" BorderThickness="2" Margin="14,37,470,20" OpacityMask="Black" Grid.Row="1">
+            <Image Source="/pngwing.com (1).png" Margin="0,-2,-2,0"/>
+        </Border>
+        <Label Content="SNAKE GAME" HorizontalAlignment="Center" FontSize="48" Margin="0,13,0,0" VerticalAlignment="Top" FontWeight="Bold" FontFamily="Comic Sans MS" Foreground="#FFFFEA00" Height="73" Width="344"/>
+        <Label Content="choose the difficulty level" HorizontalAlignment="Center" Margin="0,78,0,0" VerticalAlignment="Top" FontFamily="Bauhaus 93" FontSize="24" Grid.RowSpan="2" Foreground="White"/>
+        <Button Content="EASY" HorizontalAlignment="Left" Margin="53,326,0,0" VerticalAlignment="Top" FontWeight="Bold" FontStyle="Italic" FontFamily="Kristen ITC" FontSize="14" Height="30" Width="70" Background="#FF45D65C" BorderBrush="Black" Grid.Row="1" Click="Button_Click"/>
+        <Border BorderBrush="#FFDAFF00" BorderThickness="2" Margin="242,37,242,20" OpacityMask="Black" Grid.Row="1">
+            <Image Source="/pngwing.com (2).png" Margin="-2,47,0,0"/>
+        </Border>
+        <Button Content="NORMAL" HorizontalAlignment="Center" Margin="0,326,0,0" VerticalAlignment="Top" FontWeight="Bold" FontStyle="Italic" FontFamily="Kristen ITC" FontSize="14" Height="30" Width="92" Background="#FFD9F534" BorderBrush="Black" Grid.Row="1" Click="Button_Click_1"/>
+        <Border BorderBrush="#FF9E0505" BorderThickness="2" Margin="470,37,14,20" OpacityMask="Black" Grid.Row="1">
+            <Image Source="/pngwing.com.png" Margin="-2,0,2,0"/>
+        </Border>
+        <Button Content="HARD" HorizontalAlignment="Left" Margin="518,326,0,0" VerticalAlignment="Top" FontWeight="Bold" FontStyle="Italic" FontFamily="Kristen ITC" FontSize="14" Height="30" Width="70" Background="#FFCC1B1B" BorderBrush="Black" Grid.Row="1" Click="Button_Click_2"/>
+        <Button Content="FAQ" HorizontalAlignment="Left" Margin="545,31,0,0" VerticalAlignment="Top" Click="Button_Click_3" FontFamily="Segoe Script" FontSize="18" Width="69" BorderBrush="Black" FontWeight="Bold" Height="33">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF85E0A4"/>
+                    <GradientStop Color="{DynamicResource {x:Static SystemColors.ActiveCaptionColorKey}}" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button Content="EXIT" HorizontalAlignment="Left" Margin="28,31,0,0" VerticalAlignment="Top" Click="Button_Click_4" Height="33" FontSize="18" FontFamily="Segoe Script" Width="69" FontWeight="Bold">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF85E0A4"/>
+                    <GradientStop Color="{DynamicResource {x:Static SystemColors.ActiveCaptionColorKey}}" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Grid Grid.Row="1"/>
+        <MediaElement x:Name="qwee" UnloadedBehavior="Manual" HorizontalAlignment="Left" Height="100" Margin="299,19,0,0" Grid.Row="1" VerticalAlignment="Top" Width="100" Source="C:\original SnakeGame\sound\menu.mp3" IsMuted="True" />
+
+
+
+    </Grid>
+</Window>

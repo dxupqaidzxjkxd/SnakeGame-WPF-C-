@@ -1,0 +1,32 @@
+﻿<Window x:Class="SnakeGame.faq"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Loaded="Window_Loaded"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SnakeGame"
+        mc:Ignorable="d"
+ Title="Об игре и разработчиках" Height="450" Width="800"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Image HorizontalAlignment="Left" Height="478" VerticalAlignment="Top" Width="944" Source="/wallpaperflare.com_wallpaper (1).jpg"/>
+        <Border BorderBrush="White" BorderThickness="1" Margin="10,10,449,154">
+
+            <TextBlock TextWrapping="Wrap" Margin="19,102,19,9" Foreground="White"><Run Text="Змейка - это классическая компьютерная игра, в которой игрок управляет змейкой, которая ползает по игровому полю, поедая еду и увеличивая свой размер. Цель игры заключается в том, чтобы съесть как можно больше еды и при этом избегать столкновения с границами игрового поля и своим хвостом. "/><LineBreak/><Run Text="Для победы нужно набрать "/><Run Text="1"/><Run Text="0 о"/><Run Text="чков!"/></TextBlock>
+        </Border>
+        <Border BorderBrush="White" BorderThickness="1" Margin="449,10,10,154">
+            <Rectangle HorizontalAlignment="Left" Height="1" Margin="-1,96,0,0" Stroke="White" VerticalAlignment="Top" Width="352"/>
+        </Border>
+        <Button Content="МЕНЮ" HorizontalAlignment="Center" Margin="0,366,0,0" VerticalAlignment="Top" Height="35" Width="120" Click="Button_Click" FontFamily="Segoe Script" FontSize="20" FontWeight="Bold"/>
+        <TextBlock TextWrapping="Wrap" Margin="469,113,30,164" Foreground="White"><Run Language="ru-ru" Text="Команда разработчиков:"/><LineBreak/><Run Language="ru-ru" Text="Руш Егор"/><LineBreak/><Run Language="ru-ru" Text="Андреев Александр"/><LineBreak/><Run Language="ru-ru" Text="Довыденко Татьяна"/><LineBreak/><Run Language="ru-ru" Text="Пфайфер Антон"/><LineBreak/><Run Language="ru-ru" Text="Семенов Андрей"/></TextBlock>
+        <Rectangle HorizontalAlignment="Left" Height="1" Margin="10,108,0,0" Stroke="White" VerticalAlignment="Top" Width="325"/>
+        <Image HorizontalAlignment="Left" Height="106" Margin="566,0,0,0" VerticalAlignment="Top" Width="210" Source="image/pngwing.com (3).png"/>
+        <Image HorizontalAlignment="Left" Height="101" Margin="118,10,0,0" VerticalAlignment="Top" Width="221" Source="image/eewwqs.png"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="131,10,0,0" VerticalAlignment="Top" Width="100" Source="/eewwqs.png"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="581,10,0,0" VerticalAlignment="Top" Width="100" Source="/pngwing.com (3).png" RenderTransformOrigin="0.102,0.138"/>
+        <MediaElement x:Name="qwee" UnloadedBehavior="Manual" HorizontalAlignment="Left" Height="100" Margin="299,19,0,0" Grid.Row="1" VerticalAlignment="Top" Width="100" Source="sound\faq.mp3" IsMuted="True" />
+
+
+    </Grid>
+</Window>
+

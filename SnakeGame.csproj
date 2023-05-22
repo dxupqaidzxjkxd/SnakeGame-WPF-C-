@@ -1,0 +1,57 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows7.0</TargetFramework>
+    <Nullable>disable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="eewwqs.png" />
+    <None Remove="GameComponents\Body.png" />
+    <None Remove="GameComponents\DeadBody.png" />
+    <None Remove="GameComponents\DeadHead.png" />
+    <None Remove="GameComponents\DroidSansMono.ttf" />
+    <None Remove="GameComponents\Empty.png" />
+    <None Remove="GameComponents\Food.png" />
+    <None Remove="GameComponents\Head.png" />
+    <None Remove="GameComponents\icon.ico" />
+    <None Remove="imgonline-com-ua-Resize-NdTAFDMad9.jpg" />
+    <None Remove="menu.mp3" />
+    <None Remove="peakpx.jpg" />
+    <None Remove="pngwing.com %281%29.png" />
+    <None Remove="pngwing.com %282%29.png" />
+    <None Remove="pngwing.com %283%29.png" />
+    <None Remove="pngwing.com.png" />
+    <None Remove="wallpaperflare.com_wallpaper %281%29.jpg" />
+    <None Remove="wallpaperflare.com_wallpaper.jpg" />
+    <None Remove="wqw.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="eewwqs.png" />
+    <Resource Include="GameComponents\Body.png" />
+    <Resource Include="GameComponents\DeadBody.png" />
+    <Resource Include="GameComponents\DeadHead.png" />
+    <Resource Include="GameComponents\DroidSansMono.ttf" />
+    <Resource Include="GameComponents\Empty.png" />
+    <Resource Include="GameComponents\Food.png" />
+    <Resource Include="GameComponents\Head.png" />
+    <Resource Include="GameComponents\icon.ico" />
+    <Resource Include="imgonline-com-ua-Resize-NdTAFDMad9.jpg" />
+    <Resource Include="peakpx.jpg" />
+    <Resource Include="pngwing.com (1).png" />
+    <Resource Include="pngwing.com (2).png" />
+    <Resource Include="pngwing.com (3).png" />
+    <Resource Include="pngwing.com.png" />
+    <Resource Include="wallpaperflare.com_wallpaper (1).jpg" />
+    <Resource Include="wallpaperflare.com_wallpaper.jpg" />
+    <Resource Include="wqw.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="image\" />
+  </ItemGroup>
+
+</Project>

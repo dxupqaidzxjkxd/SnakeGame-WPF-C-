@@ -1,0 +1,83 @@
+﻿<!--
+This XAML code defines the main window for the Snake Game application.
+It includes a Viewbox containing a grid with a text block for displaying 
+the score, a uniform grid for the game board, and an overlay with a message to start the game.
+The window has various properties set including its title, size, background color, font, and window startup location. 
+The window also has event handlers for previewing and detecting key presses.
+-->
+
+<Window x:Class="SnakeGame.hard"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        Loaded="Window_Loaded"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SnakeGame"
+        mc:Ignorable="d"
+        Title="Snake" Height="500" Width="800"
+        MinWidth="300" MinHeight="300"
+        Background="{StaticResource BackgroundColor}"
+        Foreground="{StaticResource TextColor}"
+        FontFamily="{StaticResource MainFont}"
+        WindowStartupLocation="CenterScreen"
+        Icon="GameComponents/icon.ico"
+        PreviewKeyDown="Window_PreviewKeyDown"
+        KeyDown="Window_KeyDown">
+
+
+    <Viewbox>
+        
+        <Grid>
+           
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <TextBlock x:Name="ScoreText"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Center"
+                   Text="Очки: 0"
+                   FontSize="22"
+                   Margin="10"/>
+            <Border x:Name="GridBorder" 
+                Grid.Row="1"
+                BorderBrush="{StaticResource GridLineColor}"
+                BorderThickness="1.5"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center"
+                RenderOptions.EdgeMode="Aliased"
+                 Margin="20,0,20,20">
+                <UniformGrid x:Name="GameGrid"
+                         Width="400"
+                         Height="400"
+                         Background="{StaticResource GridBackgroundColor}"
+                         SnapsToDevicePixels="True"
+                         RenderOptions.BitmapScalingMode ="HighQuality">
+                </UniformGrid>
+            </Border>
+            <MediaElement x:Name="qwee" UnloadedBehavior="Manual" HorizontalAlignment="Left" Height="100" Margin="299,19,0,0" Grid.Row="1" VerticalAlignment="Top" Width="100" Source="C:\original SnakeGame\sound\hard.mp3" IsMuted="True" />
+            <Border x:Name="Overlay"
+                    Grid.Row="1"
+                    Background="{StaticResource OverlayColor}"
+                    Width="{Binding Path=ActualWidth,ElementName=GridBorder}"
+                    Height="{Binding Path=ActualHeight,ElementName=GridBorder}"
+                    Margin ="{Binding Path=Margin,ElementName=GridBorder}"
+                    RenderOptions.EdgeMode="Aliased">
+                <TextBlock x:Name="OverlayText"
+                           Text="Нажмите любую кнопку"
+                           FontSize="26"
+                           HorizontalAlignment="Center"
+                           VerticalAlignment="Center"
+                           TextWrapping="Wrap"/>
+                
+
+            </Border>
+            <Button Content="Меню" HorizontalAlignment="Left" Margin="636,0,0,0" Grid.Row="1" VerticalAlignment="Top" Height="32" Width="65" Click="Button_Click"/>
+            <Button Content="Выход" HorizontalAlignment="Left" VerticalAlignment="Top" Height="37" Width="65" Grid.Row="1" Click="Button_Click_1"/>
+            <Grid Grid.Row="1"/>
+            
+        </Grid>
+        
+    </Viewbox>
+</Window>
