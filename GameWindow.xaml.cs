@@ -105,7 +105,7 @@ namespace SnakeGame
                 return;
             }
 
-            if (Overlay.Visibility == Visibility.Visible)
+            if (Overlay.Visibility == Visibility.Visible && !isPaused)
             {
                 e.Handled = true;
                 if (!gameRunning)
